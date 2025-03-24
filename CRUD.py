@@ -1,7 +1,8 @@
 import mysql.connector
-import pymysql
+import mysql
 from sqlalchemy import create_engine
 import pandas as pd
+import pymysql
 
 
 #connect to database server
